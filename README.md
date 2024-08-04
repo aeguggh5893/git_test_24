@@ -1,3 +1,3 @@
 # git_test_24
 
-This is writing a git commit message with a subject and body using the escape character '\n'.
+Setting up VS Code to be default text editor to write proper subject and body commit messages.
